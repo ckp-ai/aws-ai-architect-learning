@@ -143,7 +143,7 @@ flowchart TB
 - **Knowledge subgraph** retrieves documentation.
 - **Human-in-the-loop** escalates unresolved cases; **LangSmith** monitors accuracy, latency, and cost.
 
-![LangGraph multi-agent architecture](../assets/images/langgraph-multi-agent.png)
+![LangGraph multi-agent architecture](../assets/images/langraph-multi-agent.png)
 
 ### Common Multi-Agent Patterns
 
